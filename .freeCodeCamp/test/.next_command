@@ -69,3 +69,6 @@ psql -U postgres < students.sql
 touuch student_info.sh
 touch student_info.sh
 chmod +x student_info.sh
+\bash
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a

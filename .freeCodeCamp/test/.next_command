@@ -68,3 +68,4 @@ psql -U postgres < student.sql
 psql -U postgres < students.sql
 touuch student_info.sh
 touch student_info.sh
+chmod +x student_info.sh

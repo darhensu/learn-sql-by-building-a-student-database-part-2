@@ -72,3 +72,6 @@ chmod +x student_info.sh
 \bash
 echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
 history -a
+./student_info.sh
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a

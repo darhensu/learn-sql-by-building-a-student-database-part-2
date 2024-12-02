@@ -195,3 +195,5 @@ psql -U freecodecamp -d students
 ./student_info.sh
 ./student_info.sh
 ./student_info.sh
+git status
+git add .
